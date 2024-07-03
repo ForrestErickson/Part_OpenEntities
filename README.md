@@ -37,5 +37,13 @@ And there is an error in cell C39 reported.
 There is no such error on cell C39 when open in V0.19
 
 
+## Fix formular in C39
+In V0.21 I fixed the formula in C39 and saved a new file: PartOpenEntitiesFixC39.FCStd
+I closed FreeCAD and then reopened FreeCAD V0.21 and opened the file and no error was reported.
+The Report View returned these two lines
+
+08:59:29  DVP::execute - ProjItem - Source shape is Null.
+08:59:29  DVP::execute - ProjItem - Source shape is Null.
+
 
 
